@@ -1,3 +1,4 @@
+// (a) Write a program in c to compute the volume of a cube
 #include <stdio.h>
 #define pi 3.142
 #define NEWLINE '\n'

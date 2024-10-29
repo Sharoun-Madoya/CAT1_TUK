@@ -1,3 +1,5 @@
+//(f) Write a program in c to compute the simple interest of money invested for I year at 10%.
+
 #include <stdio.h>
 #define rate 0.10
 

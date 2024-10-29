@@ -1,3 +1,4 @@
+// (c) Write a program in c to compute the speed of a car
 #include <stdio.h>
 
 int carSpeed(){

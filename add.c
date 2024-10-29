@@ -1,3 +1,5 @@
+// (d) Write a program in c to add four intergers
+
 #include <stdio.h>
 
 int add() {

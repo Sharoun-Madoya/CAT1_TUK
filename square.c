@@ -1,3 +1,4 @@
+//(e) Write a program in c to compute the square of four intergers
 #include <stdio.h>
 
 int squares() {
