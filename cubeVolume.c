@@ -16,5 +16,5 @@ int cubeVolume(){
 
     cubeVolume= length*width* height;
 
-    printf( cubeVolume)
+    printf( cubeVolume);
 }
